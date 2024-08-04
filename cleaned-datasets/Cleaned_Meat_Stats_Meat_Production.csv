@@ -1,4 +1,4 @@
-,Date,Year,Month,Unit,Type of Meat,Production
+,Date,Year,Month,Unit,Type_Of_Meat,Production
 0,2010-01-01,2010,1,Million Pounds,Poultry,3325.2999999999997
 1,2010-01-01,2010,1,Million Pounds,Red Meat,7788.3
 2,2010-02-01,2010,2,Million Pounds,Poultry,3198.4
